@@ -1,5 +1,4 @@
 # SQL-Project-on-Retail-Analytics
-## Retail_Analytics Case study
 ## Business Problem 
 ### The company seeks to leverage its sales transaction data, customer profiles, and product inventory information to address the following key business problems:
 -  Product Performance Variability: Identifying which products are performing well in terms of sales and which are not. This insight is crucial for inventory management and 
